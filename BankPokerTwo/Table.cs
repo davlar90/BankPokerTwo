@@ -59,7 +59,7 @@ namespace BankPokerTwo
             DealerPos = dealerPos;
             SmallPos = sbPos;
             BigPos = bbPos;
-            Turns++;
+            Turns++;//s
             
 
         }
